@@ -218,6 +218,6 @@ This repository is intended for educational and learning purposes. Feel free to 
 
 **Mohamed**
 
-Engineering Student | DevOps Engineer | Cybersecurity Enthusiast
+Engineering Student | DevOps Engineer |
 
 ⭐ If you find these projects useful, consider giving the repository a star!
