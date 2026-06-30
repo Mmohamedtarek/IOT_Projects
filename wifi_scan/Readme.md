@@ -195,4 +195,4 @@ This project is intended for educational and learning purposes. Feel free to mod
 
 **Mohamed**
 
-Engineering Student | DevOps Engineer | Cybersecurity Enthusiast
+Engineering Student | DevOps Engineer |
